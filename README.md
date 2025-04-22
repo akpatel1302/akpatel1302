@@ -116,6 +116,8 @@ Currently diving into the depths of **Vulnerability Assessment and Penetration T
 
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNmMnBsNzI3YnRvaXVoMDBpYWhteXlpcGlpajFmMTB5bzNuM2E5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/42D3CxaINsAFemFuId/giphy.gif" width="200" />
 </p>
+
 
 ---
