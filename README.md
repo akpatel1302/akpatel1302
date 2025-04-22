@@ -32,7 +32,7 @@ Currently diving into the depths of **Vulnerability Assessment and Penetration T
 
 ### 🏆 Achievements
 
-- 🏅 Reported a **sensitive data exposure bug** to **Zepto**, acknowledged in their **Hall of Fame**.
+- 🏅 Reported a **sensitive data exposure bug** to **Zepto**, acknowledged in their [**Hall Of Fame**](https://www.zeptonow.com/security-hall-of-fame?srsltid=AfmBOooqWMVl_iMWr-DDVGUGK4RdzgNKBZmV5TByA5ChierDJ7PwNFLs).
 - 📖 Published on **Medium** for ethical hacking & OSINT techniques: [medium.com/@H4xs13](https://medium.com/@H4xs13)
 - 🧠 Active bug hunter on platforms, solving real-world vulnerabilities and CTFs.
 
