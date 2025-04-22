@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1Zzh6MWlmYXZqZm53YmtobGp0eDQweDM1azk1aXFqMjF1cmJkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ic5bKYIQQQIKc/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -51,6 +51,24 @@ Currently diving into the depths of **Vulnerability Assessment and Penetration T
 
 ---
 
+### 🧠 TryHackMe Arena
+
+<p align="center">
+  <a href="https://tryhackme.com/p/H4xs13" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-CTF%20Progress-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpra2Fqa2xkZDRveGR2a25wc2k0cXlqZDBsdDcxNmRtemlzamdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="200" alt="Hacker in the Matrix"/>
+</p>
+
+<p align="center">
+  👨‍💻 Daily challenger on <strong>TryHackMe</strong> — exploring vulnerabilities, red teaming, and real-world attacks.
+</p>
+
+---
+
 
 ### 📈 GitHub Stats
 
@@ -88,23 +106,7 @@ Currently diving into the depths of **Vulnerability Assessment and Penetration T
 
 ---
 
-### 🧠 TryHackMe Arena
 
-<p align="center">
-  <a href="https://tryhackme.com/p/H4xs13" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-CTF%20Progress-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="Hacker in the Matrix"/>
-</p>
-
-<p align="center">
-  👨‍💻 Daily challenger on <strong>TryHackMe</strong> — exploring vulnerabilities, red teaming, and real-world attacks.
-</p>
-
----
 
 ### 🎉 Fun Fact
 
